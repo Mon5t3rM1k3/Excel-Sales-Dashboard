@@ -1,7 +1,7 @@
 🚴‍♂️ Bike Sales Dashboard (Excel)
 
 An interactive Bike Sales Dashboard built in Microsoft Excel using pivot tables, data cleaning techniques, and dynamic filtering. This project analyzes customer demographics and purchasing behavior to uncover insights about bike sales.
-![Bike Sales Dashboard](https://github.com/user-attachments/assets/78dbd695-0998-4be9-8ea1-0f3409fcb6e3)
+
 
 Here’s a clean, professional **GitHub README.md** you can use for your Bike Sales Dashboard project:
 
@@ -15,7 +15,7 @@ An interactive **Bike Sales Dashboard** built in Microsoft Excel using pivot tab
 
 ## 📊 Dashboard Preview
 
-![Bike Sales Dashboard](./dashboard.png)
+![Bike Sales Dashboard](https://github.com/user-attachments/assets/78dbd695-0998-4be9-8ea1-0f3409fcb6e3)
 
 ---
 
