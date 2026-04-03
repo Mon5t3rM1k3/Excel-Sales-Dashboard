@@ -89,7 +89,7 @@ The dataset was cleaned and transformed before building the dashboard:
 Bike-Sales-Dashboard/
 │
 ├── Bike Sales Dashboard.xlsx   # Main Excel file
-├── dashboard.png               # Dashboard preview image
+├── dashboard.jpg               # Dashboard preview image
 └── README.md                   # Project documentation
 ```
 
