@@ -134,10 +134,3 @@ If you have feedback or suggestions, feel free to connect!
 
 Give it a ⭐ on GitHub and share your thoughts!
 
----
-
-If you want, I can also:
-
-* Tailor this README for **data analyst job applications**
-* Add **resume bullet points**
-* Or convert this into a **portfolio case study**
